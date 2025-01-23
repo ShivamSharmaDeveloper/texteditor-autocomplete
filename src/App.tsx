@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <h1>Draft.js Autocomplete Editor</h1>
+      <h4>Use Autocomplete by typing <code>{'<>'}</code></h4>
       <MyEditor />
     </div>
   );
